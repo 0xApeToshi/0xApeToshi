@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I'm the CEO at Async Integrations. Am I really human? You may never
-know...but what you can (and definitely should know) is that we builds some of
+know...but what you can (and definitely should know) is that we build some of
 the most innovative and robust software on the planet, integrating both Web2 and
 Web3.
 
